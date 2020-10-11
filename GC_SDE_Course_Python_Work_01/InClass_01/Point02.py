@@ -12,7 +12,7 @@ def move(self, x, y):
     self.x = x
     self.y = y
 
-#  ? not working
+# not working ?
 # move(2, 3)
 
 p1 = Point02()
