@@ -30,6 +30,9 @@ class Subject(ABC):
         """
         pass
 
+    print()
+    print("Observer Design Pattern 02 test print")
+
 
 class ConcreteSubject(Subject):
     """
